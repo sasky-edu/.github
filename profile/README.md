@@ -1,7 +1,7 @@
 
 # 🎓 SASKY EDU
 
-![SASKYssä koodataan maailmoja](../assets/github.png)
+![SASKYssä koodataan maailmoja](https://raw.githubusercontent.com/sasky-edu/.github/refs/heads/main/assets/github.png)
 
 Tervetuloa SASKY koulutuskuntayhtymän GitHub-organisaatioon!
 
