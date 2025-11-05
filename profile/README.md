@@ -22,7 +22,7 @@ Tavoitteemme on:
 
 Jos olet SASKY koulutuskuntayhtymän tieto- ja viestintätekniikan opiskelija tai opettaja, voit liittyä GitHub-organisaatioon hyväksymällä sähköpostitse saamasi kutsun. Kutsu lähetetään oppilaitoksen sähköpostiosoitteeseen.
 
-Liittyminen edellyttää, että sinulla on omat GitHub-tunnukset. Tarkemmat ohjeet tunnusten luomiseen ja organisaatioon liittymiseen löydät [liity mukaan](join.md)-sivulta.
+Liittyminen edellyttää, että sinulla on omat GitHub-tunnukset. Tarkemmat ohjeet tunnusten luomiseen ja organisaatioon liittymiseen löydät [liity mukaan](../join.md)-sivulta.
 
 Yhdessä opimme, kokeilemme ja kehitymme!
 

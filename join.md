@@ -2,7 +2,7 @@
 
 Voit liittyä SASKY EDU -organisaatioon, jos olet SASKY koulutuskuntayhtymän tieto- ja viesintätekniikan opiskelija tai opettaja.
 
-Liittyminen tapahtuu hyväksymällä oppilaitoksen sähköpostiin tullut liittymiskutsu. Jotta voit liittyä mukaan, sinulla tulee olla oma GitHub-käyttäjätili luotuna itsellesi. Jos sinulla ei ole vielä omaa tiliä GitHubissa, niin voit itsellesi ilmaisen tilin alla olevilla ohjeilla. 
+Liittyminen tapahtuu hyväksymällä oppilaitoksen sähköpostiin lähtetty liittymiskutsu. Jotta voit liittyä mukaan, sinulla tulee olla oma GitHub-käyttäjätili luotuna itsellesi. Jos sinulla ei ole vielä omaa tiliä GitHubissa, niin voit itsellesi ilmaisen tilin alla olevilla ohjeilla. 
 
 Jos sinulla on jo oma GitHub-tili, niin silloin voit hypätä suoraan kohtaan [Organisaatioon liittyminen](#organisaatioon-liittyminen).
 
