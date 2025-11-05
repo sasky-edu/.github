@@ -1,6 +1,8 @@
 
 # 🎓 SASKY EDU
 
+![SASKYssä koodataan maailmoja](../assets/github.png)
+
 Tervetuloa SASKY koulutuskuntayhtymän GitHub-organisaatioon!
 
 Tämä organisaatio on tarkoitettu tieto- ja viestintätekniikan perustutkinnon opiskelijoiden ja opettajien yhteiseen ohjelmistokehitykseen, oppimiseen ja projektityöskentelyyn.
