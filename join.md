@@ -13,7 +13,7 @@ Seuraavilla ohjeilla luot itsellesi uuden tilin GitHub-palveluun.
 1. Avaa uuden GitHub-tilin rekisteröintilomake osoitteesta [https://github.com/signup](https://github.com/signup).
 
 2. Syötä lomakkeelle tietosi. 
-    - Syötä **Email**-kenttään sähköpostiosoite, jota käytät aktiivisesti.
+    - Syötä **Email**-kenttään oppilaitoksen sähköpostiosoite. Voit myös käyttää omaa henkilökohtaista sähköpostiosoitettasi, tällöin oppilaitoksen sähköpostiosoite on kytkettävä tiliin profiiliasetuksista ennen organisaatioon liittymistä.
     - Syötä **Password**-kenttään turvallinen ja muistettava salasana, jota et käytä muualla.
     - Syötä **Username**-kenttään käyttäjänimesi. Käyttäjänimi näkyy kaikille muille GitHubin käyttäjille, joten valitse se viisaasti.
     - **Your Country/Region** -kohtaan valitse maaksi **Finland**.
